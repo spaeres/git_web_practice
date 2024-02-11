@@ -1,0 +1,17 @@
+# Ignorar archivos y directorios generados automáticamente
+.DS_Store
+node_modules/
+dist/
+
+# Ignorar archivos de configuración específicos de macOS
+*.swp
+*.swo
+*.swn
+*.swm
+
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar archivos de registro y caché
+*.log
+*.cache
